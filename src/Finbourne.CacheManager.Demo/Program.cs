@@ -6,7 +6,7 @@ namespace InMemoryCacheDemo
     {
         static void Main(string[] args)
         {
-            // Create an instance of the cache with a capacity of 6 items
+            // Create an instance of the cache with a capacity of 10 items
             int totalCapacity = 10;
             var cache = new InMemoryCache(totalCapacity);
             int totalLeastRecentItemRemoved = 0, totalRemoved = 0, totalAdded = 0;
