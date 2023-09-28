@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{3427CBFD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Finbourne.CacheManager.Library", "src\Finbourne.CacheManager.Library\Finbourne.CacheManager.Library.csproj", "{892A9D02-F260-46D1-A7DB-B49A4A07022A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finbourne.CacheManager.Library.Tests", "Finbourne.CacheManager.Library.Tests\Finbourne.CacheManager.Library.Tests.csproj", "{B3CE2CB4-341B-4D26-AAFA-A5B919693471}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finbourne.CacheManager.Library.Tests", "tests\Finbourne.CacheManager.Library.Tests\Finbourne.CacheManager.Library.Tests.csproj", "{B3CE2CB4-341B-4D26-AAFA-A5B919693471}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finbourne.CacheManager.Demo", "src\Finbourne.CacheManager.Demo\Finbourne.CacheManager.Demo.csproj", "{1A107E1F-1BED-42B3-B36F-B9DDE7B51413}"
 EndProject
