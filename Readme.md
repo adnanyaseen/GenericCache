@@ -2,7 +2,7 @@
 
 ## Implementation:
 
-- Developed as a .Net Standard 2.1 Class Library
+- Developed as a .Net 6 Class Library
 - Implements the ICache interface, providing methods for adding, retrieving, and removing items from the cache.
 - Includes events ItemLeastRecentRemoved, ItemRemoved, and ItemAdded to notify consumers of cache-related events.
 - Enforces capacity limits and handles evictions using the least recently used (LRU) strategy.
